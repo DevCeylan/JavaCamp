@@ -1,0 +1,11 @@
+
+public class UserManager {
+	
+	public void addUser(User user) {
+		System.out.println(user.userName + " added.");
+	}
+	
+	public void printInfos(User user) {
+		System.out.println("Kullanýcý adý: " + user.userName + "\nKullanýcý No: " + user.userId  );
+	}
+}

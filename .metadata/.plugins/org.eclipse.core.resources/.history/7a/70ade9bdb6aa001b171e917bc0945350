@@ -1,0 +1,15 @@
+
+public class CustomerManager {
+	
+	private Logger logger;
+	
+	
+	public void add(Customer customer) {
+		System.out.println("Customer added: " + customer.getFirstName());
+		
+	}
+	
+	public void delete (Customer customer) {
+		System.out.println("Customer deleted: " + customer.getFirstName());
+	}
+}

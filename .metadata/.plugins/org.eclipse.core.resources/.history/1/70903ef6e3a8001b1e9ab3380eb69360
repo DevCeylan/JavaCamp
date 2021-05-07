@@ -1,0 +1,15 @@
+
+public class User {
+	
+ String userId;
+ String userName;
+	
+	public User () {
+		
+	}
+	
+	public void printInfos() {
+		
+	}
+	
+}

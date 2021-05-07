@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="IndividualCustomer"/>
+    <fullyQualifiedTypeName name="CorporateCustomer"/>
+    <fullyQualifiedTypeName name="java.lang.Override"/>
+    <fullyQualifiedTypeName name="Logger"/>
+    <fullyQualifiedTypeName name="java.io.File"/>
+    <fullyQualifiedTypeName name="EmailLogger"/>
+    <fullyQualifiedTypeName name="Student"/>
+    <fullyQualifiedTypeName name="Instructor"/>
+    <fullyQualifiedTypeName name="StudentManager"/>
+    <fullyQualifiedTypeName name="InstructorManager"/>
+    <fullyQualifiedTypeName name="CustomerManager"/>
+    <fullyQualifiedTypeName name="Customer"/>
+    <fullyQualifiedTypeName name="SmsLogger"/>
+    <fullyQualifiedTypeName name="DatabaseLogger"/>
+    <fullyQualifiedTypeName name="FileLogger"/>
+    <fullyQualifiedTypeName name="Workable"/>
+    <fullyQualifiedTypeName name="Eatable"/>
+    <fullyQualifiedTypeName name="Payable"/>
+    <fullyQualifiedTypeName name="java.text.DateFormat"/>
+    <fullyQualifiedTypeName name="nLayeredDemo.entities.abstracts.Entity"/>
+    <fullyQualifiedTypeName name="java.util.List"/>
+    <fullyQualifiedTypeName name="nLayeredDemo.dataAccess.abstracts.ProductDao"/>
+    <fullyQualifiedTypeName name="nLayeredDemo.business.abstracts.ProductService"/>
+    <fullyQualifiedTypeName name="nLayeredDemo.business.concretes.ProductManager"/>
+    <fullyQualifiedTypeName name="nLayeredDemo.dataAccess.concretes.HibernateProductDao"/>
+    <fullyQualifiedTypeName name="java.lang.Process"/>
+    <fullyQualifiedTypeName name="nLayeredDemo.entities.concretes.Product"/>
+    <fullyQualifiedTypeName name="nLayeredDemo.core.LoggerService"/>
+    <fullyQualifiedTypeName name="nLayeredDemo.jLogger.JLoggerManager"/>
+    <fullyQualifiedTypeName name="nLayeredDemo.core.JLoggerManagerAdapter"/>
+</qualifiedTypeNameHistroy>

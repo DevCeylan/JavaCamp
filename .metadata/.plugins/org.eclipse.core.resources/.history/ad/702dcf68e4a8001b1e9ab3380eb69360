@@ -1,0 +1,12 @@
+
+public class Main {
+
+	public static void main(String[] args) {
+		//For testing purposes, encapsulation applications have been ignored.
+		
+		Student student = new Student();
+		student.userId = "10001";
+		student.userName = "";
+	}
+
+}

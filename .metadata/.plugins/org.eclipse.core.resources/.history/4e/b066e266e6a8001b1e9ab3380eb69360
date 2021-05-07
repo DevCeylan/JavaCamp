@@ -1,0 +1,9 @@
+
+public class UserManager {
+	
+	public void addUser() {
+	}
+	
+	public void printInfos() {
+	}
+}
